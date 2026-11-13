@@ -1,3 +1,10 @@
+dde-polkit-agent (6.8.0) unstable; urgency=medium
+
+  * fix(ci): pass App secrets to release workflow
+  * chore: Sync by
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 14:55:31 +0800
+
 dde-polkit-agent (6.0.25) unstable; urgency=medium
 
   * fix: prevent crash in async privilege reduction
